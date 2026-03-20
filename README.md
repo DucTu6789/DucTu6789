@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently researching: **Web Vulnerabilities**
+- 🔭 I’m currently researching: **CVE-2025-25257 (RCE) & Web Vulnerabilities**
 - 🌱 I’m learning: **Network Security & Penetration Testing**
 - ⚡ Fun fact: I have a strong passion for Cybersecurity and I love discovering and analyzing Web vulnerabilities.
 
@@ -12,21 +12,22 @@
 
 ## 🛠️ Skills & Tools
 - **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-- **Tools:** ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat&logo=portswigger&logoColor=white) ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-- **Platforms:** PortSwigger Academy.
+- **Tools:** ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat&logo=portswigger&logoColor=white) ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white) !
+
+**Platforms:** PortSwigger Academy.
 ---
 
 ## 📁 Portfolio & Projects
 
 ### 🔬 Security Labs (Nghiên cứu & Mô phỏng)
-- 🚀 **[CVE-2025-25257 Simulation](https://github.com/DucTu6789/CVE-2025-25257)**: Phân tích chi tiết và dựng môi trường mô phỏng lỗ hổng RCE. 
+- 🚀 **[CVE-2025-25257 Simulation](https://github.com/DucTu6789/CVE-2025-25257)**: 
 
-- 🧪 **[SQLi-Exploitation-Lab](https://github.com/DucTu6789/SQLi-Lab)**: Nghiên cứu các kỹ thuật Blind/Union-based SQL Injection.
+- 🧪 **[SQLi-Exploitation-Lab](https://github.com/DucTu6789/SQLi-Lab)**: 
 
 ### 🚩 CTFs (Capture The Flag)
-- 🏆 **[CTF-Writeups](https://github.com/DucTu6789/CTF-Writeups)**: Tổng hợp lời giải chi tiết các giải CTF đã tham gia.
+- 🏆 **[CTF-Writeups](https://github.com/DucTu6789/CTF-Writeups)**: 
     - *Focus:* Web Exploitation, Cryptography.
-- 🛠️ **[CTF-Scripts](https://github.com/DucTu6789/CTF-Tools)**: Các công cụ tự viết bằng Python và Bash hỗ trợ giải đố nhanh.
+- 🛠️ **[CTF-Scripts](https://github.com/DucTu6789/CTF-Tools)**: 
 
 ---
 
