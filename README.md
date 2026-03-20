@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently researching: **CVE-2025-25257 (RCE) & Web Vulnerabilities**
+- 🔭 I’m currently researching: **Web Vulnerabilities**
 - 🌱 I’m learning: **Network Security & Penetration Testing**
 - ⚡ Fun fact: I have a strong passion for Cybersecurity and I love discovering and analyzing Web vulnerabilities.
 
@@ -14,7 +14,6 @@
 - **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 - **Tools:** ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat&logo=portswigger&logoColor=white) ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white) 
 
-**Platforms:** PortSwigger Academy.
 ---
 
 ## 📁 Portfolio & Projects
@@ -23,13 +22,6 @@
 ### 🚩 CTFs (Capture The Flag)
 ### 💻 Operating System
 
----
-
-## 📊 GitHub Stats
-![DucTu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DucTu6789&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DucTu6789&layout=compact&theme=radical)
-
----
 
 ## 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ductucyber/)
