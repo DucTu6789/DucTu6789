@@ -12,7 +12,7 @@
 
 ## 🛠️ Skills & Tools
 - **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-- **Tools:** ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat&logo=portswigger&logoColor=white) ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white) !
+- **Tools:** ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat&logo=portswigger&logoColor=white) ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white) 
 
 **Platforms:** PortSwigger Academy.
 ---
