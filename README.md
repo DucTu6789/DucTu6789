@@ -20,14 +20,8 @@
 ## 📁 Portfolio & Projects
 
 ### 🔬 Security Labs (Nghiên cứu & Mô phỏng)
-- 🚀 **[CVE-2025-25257 Simulation](https://github.com/DucTu6789/CVE-2025-25257)**: 
-
-- 🧪 **[SQLi-Exploitation-Lab](https://github.com/DucTu6789/SQLi-Lab)**: 
-
 ### 🚩 CTFs (Capture The Flag)
-- 🏆 **[CTF-Writeups](https://github.com/DucTu6789/CTF-Writeups)**: 
-    - *Focus:* Web Exploitation, Cryptography.
-- 🛠️ **[CTF-Scripts](https://github.com/DucTu6789/CTF-Tools)**: 
+### 💻 Operating System
 
 ---
 
