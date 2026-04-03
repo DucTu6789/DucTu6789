@@ -18,6 +18,7 @@ Thử payload `{{7*7}}`
 Thử với payload `{{7*'7'}}`
 
 Server đang dùng Jinja2 (Python)
+
 <img width="692" height="346" alt="image" src="https://github.com/user-attachments/assets/8c8e61fc-e862-47b7-862e-f4c774100f5a" />
 
 ---
