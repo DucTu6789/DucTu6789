@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="card center-content">
+    <h2>System Redirect</h2>
+    
+    {% if url %}
+    <div class="alert alert-warning">
+        Redirecting to: <a href="{{ url }}">{{ url | safe }}</a>
+    </div>
+    <p>Please click the link above if you are not redirected automatically.</p>
+    {% else %}
+    <p>No URL provided.</p>
+    {% endif %}
+</div>
+{% endblock %}
