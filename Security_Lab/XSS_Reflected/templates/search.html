@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="card">
+    <h2>Search Database</h2>
+    <form action="/search" method="GET" class="form-group">
+        <input type="text" name="q" placeholder="Enter keywords..." class="form-input" required>
+        <button type="submit" class="btn">Search</button>
+    </form>
+
+    {% if query %}
+    <div class="alert alert-info">
+        <h3>Results for: {{ query | safe }}</h3>
+        <p>No records found matching your criteria.</p>
+    </div>
+    {% endif %}
+</div>
+{% endblock %}
