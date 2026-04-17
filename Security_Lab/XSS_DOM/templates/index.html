@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VulnLab - Web Security Training</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="logo">VulnLab</div>
+        <ul class="nav-links">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#profile">Profile</a></li>
+            <li><a href="#admin">Admin</a></li>
+        </ul>
+        <div class="auth-section">
+            <span id="user-greeting"></span>
+            <a href="#login" id="login-link">Login</a>
+            <a href="#" id="logout-link" style="display: none;" onclick="logout()">Logout</a>
+        </div>
+    </nav>
+
+    <div class="search-bar">
+        <input type="text" id="searchInput" placeholder="Search products or blogs...">
+        <button onclick="doSearch()">Search</button>
+    </div>
+
+    <main class="container">
+        <div id="app"></div>
+    </main>
+
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>
